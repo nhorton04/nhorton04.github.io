@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Metis Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Creating Images with Generative Adversarial Networks](/capstone)
+<img src="images/capstone_thumbnail.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
