@@ -8,7 +8,7 @@
 <img src="images/capstone_thumbnail.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Analyzing Reddit Comments with NLP](/pdf/reddit_nlp.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
