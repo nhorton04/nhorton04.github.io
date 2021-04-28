@@ -1,11 +1,16 @@
-title: John Doe # your name (or website title) here
+title: Nick Horton # your name (or website title) here
 logo: "/images/0.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I recently graduated from Metis, an ACCET accredited 12 week immersive data science bootcamp focused on project
+  oriented learning.
+  The core curriculum is centered around Python, statistics, supervised and unsupervised
+  machine learning, exploratory data analysis, databases, and visualization techniques.
+  While at Metis I completed five self-designed data science projects from conception to presentation;
+  including data collection, data management, exploratory data analysis, modeling, and visualizations. 
   <br><br>
-  Second description 
+  I am currently looking for a position as a data analyst.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/nicholaschorton/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-193770274-2 # your Google Analytics tracking ID here
