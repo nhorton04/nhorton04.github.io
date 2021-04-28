@@ -4,7 +4,7 @@
 
 ### Metis Projects
 
-[Creating Images with Generative Adversarial Networks](/pdf/Static_Capstone.pdf)
+[Creating Images with Generative Adversarial Networks](https://github.com/nhorton04/Projects/blob/main/Project_5/Static_Capstone.pdf)
 <img src="images/capstone_thumbnail.png?raw=true"/>
 
 ---
