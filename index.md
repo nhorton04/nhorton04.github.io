@@ -11,8 +11,11 @@
 
 
 ---
-[Analyzing Reddit Comments with NLP](/pdf/reddit_nlp.pdf)
+### Analyzing Reddit Comments with NLP
 <img src="images/Screenshot from 2021-04-28 20-57-20.png?raw=true"/>
+[Project Repository](https://github.com/nhorton04/Projects/tree/main/Project%204)
+<br>
+[Slide Deck](https://github.com/nhorton04/Projects/blob/main/Project%204/Presentation.pdf)
 
 ---
 [Project 3 Title](http://example.com/)
