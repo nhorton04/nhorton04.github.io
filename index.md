@@ -6,7 +6,7 @@
 <img src="images/capstone_thumbnail.png?raw=true"/>
 
 [Project Repository](https://github.com/nhorton04/Projects/tree/main/Project_5)
-<br></br>
+<br>
 [Slide Deck](https://github.com/nhorton04/Projects/blob/main/Project_5/Static_Capstone.pdf)
 
 
