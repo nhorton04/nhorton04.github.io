@@ -12,7 +12,7 @@
 
 ---
 [Analyzing Reddit Comments with NLP](/pdf/reddit_nlp.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screenshot from 2021-04-28 20-57-20.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
