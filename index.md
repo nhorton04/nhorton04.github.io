@@ -22,13 +22,11 @@
 
 ### Predicting Income from US Census Data
 
-<img src="images/Screenshot from 2021-04-30 11-35-06.png?raw=true"/>
 <img src="images/Screenshot from 2021-04-30 11-35-29.png?raw=true"/>
-<img src="images/Screenshot from 2021-04-30 11-35-52.png?raw=true"/>
 
-[Project Repository](https://github.com/nhorton04/Projects/tree/main/Project%204)
+[Project Repository](https://github.com/nhorton04/Projects/tree/main/Project%203)
 <br>
-[Slide Deck](https://github.com/nhorton04/Projects/blob/main/Project%204/Presentation.pdf)
+[Slide Deck](https://github.com/nhorton04/Projects/blob/main/Project%203/income_classification.pdf)
 
 ---
 
