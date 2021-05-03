@@ -43,7 +43,7 @@
 
 ### MTA Turnstile Data: Sunny Futures STEM ( Group Project )
 
-<img src="images/Screenshot from 2021-04-30 11-43-33.png?raw=true"/>
+<img src="images/Screenshot from 2021-05-03 11-03-27.png?raw=true"/>
 
 [Project Repository](https://github.com/nhorton04/Projects/tree/main/Project%201)
 <br>
