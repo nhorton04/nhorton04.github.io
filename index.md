@@ -32,7 +32,7 @@
 
 ### Predicting Movie Sales from Metacritic Reviews
 
-<img src="images/Screenshot from 2021-04-30 11-43-33.png?raw=true"/>
+<img src="images/Screenshot from 2021-05-03 11-06-48.png?raw=true"/>
 
 [Project Repository](https://github.com/nhorton04/Projects/tree/main/Project%202)
 <br>
