@@ -30,19 +30,23 @@
 
 ---
 
+### Predicting Movie Sales from Metacritic Reviews
 
-### Category Name 2
+<img src="images/Screenshot from 2021-04-30 11-43-33.png?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+[Project Repository](https://github.com/nhorton04/Projects/tree/main/Project%202)
+<br>
+[Slide Deck](https://github.com/nhorton04/Projects/blob/main/Project%202/Box%20Office%20Prediction.pdf)
 
 ---
 
+
+### MTA Turnstile Data: Sunny Futures STEM ( Group Project )
+
+<img src="images/Screenshot from 2021-04-30 11-43-33.png?raw=true"/>
+
+[Project Repository](https://github.com/nhorton04/Projects/tree/main/Project%201)
+<br>
+[Slide Deck](https://github.com/nhorton04/Projects/blob/main/Project%201/Sunny%20Futures%20STEM%20Project.pdf)
+
+---
