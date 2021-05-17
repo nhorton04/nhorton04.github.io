@@ -7,7 +7,7 @@
 
 [Project Repository](https://github.com/nhorton04/metis-projects/tree/main/5%20-%20Creating%20Images%20with%20GANs)
 <br>
-[Slide Deck](https://github.com/nhorton04/Projects/blob/main/Project_5/Static_Capstone.pdf)
+[Slide Deck](https://github.com/nhorton04/metis-projects/blob/main/5%20-%20Creating%20Images%20with%20GANs/Static_Capstone.pdf)
 
 
 ---
@@ -16,7 +16,7 @@
 
 [Project Repository](https://github.com/nhorton04/metis-projects/tree/main/4%20-%20Analyzing%20Reddit%20Comments%20with%20NLP)
 <br>
-[Slide Deck](https://github.com/nhorton04/Projects/blob/main/Project%204/Presentation.pdf)
+[Slide Deck](https://github.com/nhorton04/metis-projects/blob/main/4%20-%20Analyzing%20Reddit%20Comments%20with%20NLP/Presentation.pdf)
 
 ---
 
@@ -26,7 +26,7 @@
 
 [Project Repository](https://github.com/nhorton04/metis-projects/tree/main/3%20-%20Predicting%20Income%20from%20US%20Census%20Data)
 <br>
-[Slide Deck](https://github.com/nhorton04/Projects/blob/main/Project%203/income_classification.pdf)
+[Slide Deck](https://github.com/nhorton04/metis-projects/blob/main/3%20-%20Predicting%20Income%20from%20US%20Census%20Data/income_classification.pdf)
 
 ---
 
@@ -36,7 +36,7 @@
 
 [Project Repository](https://github.com/nhorton04/metis-projects/tree/main/2%20-%20Predicting%20Movie%20Sales%20from%20Metacritic%20Reviews)
 <br>
-[Slide Deck](https://github.com/nhorton04/Projects/blob/main/Project%202/Box%20Office%20Prediction.pdf)
+[Slide Deck](https://github.com/nhorton04/metis-projects/blob/main/2%20-%20Predicting%20Movie%20Sales%20from%20Metacritic%20Reviews/Box%20Office%20Prediction.pdf)
 
 ---
 
@@ -47,6 +47,6 @@
 
 [Project Repository](https://github.com/nhorton04/metis-projects/tree/main/1%20-%20MTA%20Turnstile%20Data)
 <br>
-[Slide Deck](https://github.com/nhorton04/Projects/blob/main/Project%201/Sunny%20Futures%20STEM%20Project.pdf)
+[Slide Deck](https://github.com/nhorton04/metis-projects/blob/main/1%20-%20MTA%20Turnstile%20Data/Sunny%20Futures%20STEM%20Project.pdf)
 
 ---
