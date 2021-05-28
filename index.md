@@ -9,7 +9,7 @@
 <br>
 [Slide Deck](https://github.com/nhorton04/metis-projects/blob/main/5%20-%20Creating%20Images%20with%20GANs/Static_Capstone.pdf)
 
-#### [Style Transfer App](http://18.188.208.188:8501/)
+#### [👉 Style Transfer App 👈](http://18.188.208.188:8501/)
 
 ---
 ### Analyzing Reddit Comments with NLP
